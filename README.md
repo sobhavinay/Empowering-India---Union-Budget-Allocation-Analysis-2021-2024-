@@ -15,12 +15,12 @@ All through a responsive and user-friendly web interface.
 
 ## 🚀 Key Features
 
-- ✅ Interactive Tableau Dashboards**
-- 📈 Year-wise Budget Trend Analysis**
-- 🏛️ Ministry-wise Allocation Insights**
-- 📑 Scheme-level Spending Breakdown**
-- 🌐 Flask-based Web Application**
-- 📱 Responsive UI for Easy Exploration**
+- ✅ Interactive Tableau Dashboards
+- 📈 Year-wise Budget Trend Analysis
+- 🏛️ Ministry-wise Allocation Insights
+- 📑 Scheme-level Spending Breakdown
+- 🌐 Flask-based Web Application
+- 📱 Responsive UI for Easy Exploration
 
 ---
 
