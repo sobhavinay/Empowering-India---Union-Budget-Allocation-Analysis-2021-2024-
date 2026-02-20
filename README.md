@@ -40,6 +40,7 @@ All through a **responsive and user-friendly web interface**.
 - **Scheme-wise Budget Analysis
 - **Top Departments & Schemes
 ---
+
 ## 🎬 Project Demo
 
 - **▶️ Demo Video 1:
