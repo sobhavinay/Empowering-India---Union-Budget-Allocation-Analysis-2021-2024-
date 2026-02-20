@@ -49,6 +49,8 @@ https://drive.google.com/file/d/1XDTJctPviG_vQaTBEEYeP8DDPqHtWwBX/view
 - **▶️ Demo Video 2:
 https://drive.google.com/file/d/173qDa5-Mi9MxwbhqodUfy7wetAp-yG-y/view
 
+----
+
 ## 🎯 Learning Outcomes
 
 - **Data visualization and storytelling using Tableau
